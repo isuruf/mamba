@@ -72,7 +72,7 @@ static struct
 
 static struct
 {
-    int verbosity = 0;
+    int verbosity = 3;
     bool always_yes = false;
     bool quiet = false;
     bool json = false;
